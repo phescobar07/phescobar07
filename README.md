@@ -1,5 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Paulo Henrique</h1>
 <h3 align="center">Administrador de Redes</h3>
+![21108_picture_cristiano_ronaldo_138](https://github.com/user-attachments/assets/a87d98cf-724d-4b60-975e-55684443d25b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

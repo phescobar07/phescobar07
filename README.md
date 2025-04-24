@@ -52,6 +52,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/phescobar07/phescobar07/output/snake.svg" alt="Snake animation" />
-
 ###

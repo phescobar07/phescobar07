@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Paulo Henrique e eu sou um Administrador de Redes, de São Paulo</h2>
+<h2 align="left">👋! I'm Paulo Henrique, trained SysAdmin from Sao Paulo, Brazil🇧🇷</h2>
 
 ###
 
